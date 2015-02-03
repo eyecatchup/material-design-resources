@@ -6,11 +6,11 @@
 
 ##### T.O.C.
 <ol style='counter-reset:item'>
-  <li> <a href='#1-googles-material-design-tech-specs'><strong><code>GOOGLE'S <em>"MATERIAL DESIGN"</em></code></strong> </a>
+  <li> <a href='#1-googles-material-design'><strong><code>GOOGLE'S <em>"MATERIAL DESIGN"</em></code></strong> </a>
     <ol style='counter-reset:item'>
-      <li> <a href='#11-about-intro'> About / Intro </a> </li>
-      <li> <a href='#12-basic-definitions-specs'> Basic, technical definitions / specs </a> </li>
-      <li> <a href='#13-advanced-definitions-specs'> Advanced, technical definitions / specs </a> 
+      <li> <a href='#11-about-material-design--intro'> About / Intro </a> </li>
+      <li> <a href='#12-basic-material-design-definitions--specs'> Basic, technical definitions / specs </a> </li>
+      <li> <a href='#13-advanced-material-design-definitions--specs'> Advanced, technical definitions / specs </a> 
         <ol style='counter-reset:item'>
           <li> <a href='#131-advanced-definitions-specs'> Style </a> </li>
           <li> <a href='#132-advanced-definitions-specs'> Layout </a> </li>
@@ -18,23 +18,27 @@
           <li> <a href='#134-advanced-definitions-specs'> UI-Components </a> </li>
         </ol>
       </li>
-      <li> <a href='#14-basic-definitions-specs'> Downloads (Assets / Resources) </a> </li>  
+      <li> <a href='#14-material-design-downloads-assets--resources'> Downloads (Assets / Resources) </a> </li>  
     </ol>  
   </li> 
   
-  <li> <a href='#2-googles-material-design-tech-specs'><strong><code>POLYMER'S <em>"PAPER ELEMENTS"</em></code></strong> </a>  
+  <li> <a href='#2-polymers-paper-elements'><strong><code>POLYMER'S <em>"PAPER ELEMENTS"</em></code></strong> </a>  
     <ol style='counter-reset:item'>     
-      <li> <a href='#12-basic-definitions-specs'> (Tech) Docs / Support </a> </li>
-      <li> <a href='#12-basic-definitions-specs'> Source (Github) </a> </li> 
-      <li> <a href='#12-basic-definitions-specs'> <strong><code>"PAPER ELEMENTS"</code></strong> Components </a> </li> 
-      <li> <a href='#12-basic-definitions-specs'> <strong><code>"PAPER ELEMENTS"</code></strong> App Sampler </a> </li>
-      <li> <a href='#11-about-intro'> Polymer Platform Demos </a> </li> 
+      <li> <a href='#21-technical-documentation--support'> (Tech) Docs / Support </a> </li>
+      <li> <a href='#22-source-github'> Source (Github) </a> </li> 
+      <li> <a href='#23-paper-elements-components'> <strong><code>"PAPER ELEMENTS"</code></strong> Components </a> </li> 
+      <li> <a href='#24-paper-elements-app-sampler'> <strong><code>"PAPER ELEMENTS"</code></strong> App Sampler </a> </li>
+      <li> <a href='#25-polymer-platform-demos'> Polymer Platform Demos </a> </li> 
 
     </ol>
   </li>
-  <li> <a href='#12-basic-definitions-specs'> <strong><code>ANGULAR'S "MATERIAL DESIGN"</code></strong> </a> </li>
-  <li> <a href='#12-basic-definitions-specs'> <strong><code>(OPENSOURCE) "MATERIAL DESIGN" F.E.-FRAMEWORKS</code></strong> </a> </li>
-  <li> <a href='#12-basic-definitions-specs'> <strong><code>"MATERIAL DESIGN" CODEPEN.IO SNIPPETS</code></strong> </a> </li>
+  <li> <a href='#3-material-for-angular'> <strong><code>ANGULAR'S "MATERIAL DESIGN"</code></strong> </a> </li>
+  <li> <a href='#4-open-source-material-design-cssjs-frameworks'> <strong><code>(OPENSOURCE) "MATERIAL DESIGN" F.E.-FRAMEWORKS</code></strong> </a> </li>
+  <li> <a href='#5-material-design-codepenio-snippets'> <strong><code>"MATERIAL DESIGN" CODEPEN.IO SNIPPETS</code></strong> </a> </li>
+  <li> <a href='#6-android-material-design'> <strong><code>ANDROID "MATERIAL DESIGN"</code></strong> </a> </li>
+  <li> <a href='#7-material-design-blog-posts'> <strong><code>"MATERIAL DESIGN" RECOMMENDED BLOG POSTS</code></strong> </a> </li>
+  <li> <a href='#legal-note'> <strong><code>LEGAL NOTE</code></strong> </a> </li>
+  <li> <a href='#copyright--license'> <strong><code>COPYRIGHT / LICENSE</code></strong> </a> </li>
 </ol>
 
 -- 
